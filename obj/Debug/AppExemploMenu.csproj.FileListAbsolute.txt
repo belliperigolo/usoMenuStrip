@@ -1,0 +1,13 @@
+H:\Projetos3C\Etapa02\AppExemploMenu\bin\Debug\AppExemploMenu.exe.config
+H:\Projetos3C\Etapa02\AppExemploMenu\bin\Debug\AppExemploMenu.exe
+H:\Projetos3C\Etapa02\AppExemploMenu\bin\Debug\AppExemploMenu.pdb
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.AssemblyReference.cache
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.SuggestedBindingRedirects.cache
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAmarelo.resources
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.FrmAzul.resources
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.FrmVermelho.resources
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.Properties.Resources.resources
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.GenerateResource.cache
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.csproj.CoreCompileInputs.cache
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.exe
+H:\Projetos3C\Etapa02\AppExemploMenu\obj\Debug\AppExemploMenu.pdb
